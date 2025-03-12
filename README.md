@@ -93,3 +93,9 @@ Es una aplicación realizada en kotlin donde los usuarios puedan crear salas par
 - **Historial de canciones**:  
   Cada usuario tiene un historial que muestra las canciones más escuchadas.
 
+
+## Cronograma
+1- Para la siguiente revisión me gustaría tener hecho la base de datos y una acercación a la vista de la aplicación
+2- Más adelante me gustaría mejorar la interfaz 
+
+
