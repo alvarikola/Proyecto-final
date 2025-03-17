@@ -98,8 +98,8 @@ Es una aplicación realizada en kotlin donde los usuarios puedan crear salas par
 
 
 ## Cronograma
-26/03/2025 - Realizar la base de datos y una acercación pequeña a la vista de la aplicación
-09/04/2025 - Mejorar la interfaz 
-30/04/2025 - Implementación de la base de datos en la aplicación
-14/05/2025 - Corregir errores, terminar la interfaz y muestra de datos de la base de datos
+- **26/03/2025** - Realizar la base de datos y una acercación pequeña a la vista de la aplicación
+- **09/04/2025** - Mejorar la interfaz 
+- **30/04/2025** - Implementación de la base de datos en la aplicación
+- **14/05/2025** - Corregir errores, terminar la interfaz y muestra de datos de la base de datos
 
