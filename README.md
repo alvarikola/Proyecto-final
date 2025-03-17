@@ -59,11 +59,14 @@ Es una aplicación realizada en kotlin donde los usuarios puedan crear salas par
   - ID (PK)  
   - UsuarioID (FK)  
   - CanciónID (FK)  
-  - VecesEscuchada  
-
+  - VecesEscuchada
+  
 - **Relaciones**:  
   - Pertenece a -> Usuario (N:1)  
   - Contiene -> Canción (N:1)
+ 
+ ![image](https://github.com/user-attachments/assets/e5992d01-e36f-4bde-8103-d92d2150bfd3)
+
 
 ## Tecnologías a utilizar
 
@@ -95,7 +98,8 @@ Es una aplicación realizada en kotlin donde los usuarios puedan crear salas par
 
 
 ## Cronograma
-1- Para la siguiente revisión me gustaría tener hecho la base de datos y una acercación a la vista de la aplicación
-2- Más adelante me gustaría mejorar la interfaz 
-
+26/03/2025 - Realizar la base de datos y una acercación pequeña a la vista de la aplicación
+09/04/2025 - Mejorar la interfaz 
+30/04/2025 - Implementación de la base de datos en la aplicación
+14/05/2025 - Corregir errores, terminar la interfaz y muestra de datos de la base de datos
 
